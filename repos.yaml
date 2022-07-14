@@ -1,6 +1,6 @@
 version: 1
 data:
-    repos1:
+    repos:
         - name: myspb
           url: https://github.com/mih-kopylov/myspb.git
           tags:
