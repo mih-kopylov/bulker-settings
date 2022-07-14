@@ -12,6 +12,12 @@ data:
             - github
             - a
             - b
+        - name: gibdd2
+          url: https://github.com/mih-kopylov/gibdd.git
+          tags:
+            - github
+            - b
+            - c
         - name: gibdd3
           url: https://github.com/mih-kopylov/gibdd.git
           tags:
