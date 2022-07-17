@@ -61,6 +61,12 @@ data:
                 - github
                 - b
                 - c
+        gibdd11:
+            url: https://github.com/mih-kopylov/gibdd.git
+            tags:
+                - github
+                - b
+                - c
         myspb:
             url: https://github.com/mih-kopylov/myspb.git
             tags:
