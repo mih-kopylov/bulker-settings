@@ -1,6 +1,12 @@
 version: 1
 data:
     repos:
+        another:
+            url: https://github.com/mih-kopylov/gibdd.git
+            tags:
+                - github
+                - b
+                - c
         gibdd:
             url: https://github.com/mih-kopylov/gibdd.git
             tags:
@@ -8,12 +14,6 @@ data:
                 - a
                 - b
         gibdd2:
-            url: https://github.com/mih-kopylov/gibdd.git
-            tags:
-                - github
-                - b
-                - c
-        gibdd3:
             url: https://github.com/mih-kopylov/gibdd.git
             tags:
                 - github
